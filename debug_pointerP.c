@@ -23,7 +23,7 @@ int main() {
         p++;
     }
 
-    count-- //exclude si zero sa printing ng elements
+    count--; //exclude si zero sa printing ng elements
     p--;
 
     while (count > 0) {
